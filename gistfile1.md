@@ -1,1 +1,1 @@
-- [http://jsfiddle.net/TQQx5/1/](JSFiddle Demo)
+- [JSFiddle Demo](http://jsfiddle.net/TQQx5/1/)
